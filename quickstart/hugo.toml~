@@ -1,0 +1,4 @@
+baseURL = 'https://www.domidk.net/'
+languageCode = 'en-us'
+title = 'Doms new site'
+theme = 'terminal'
