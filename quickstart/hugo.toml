@@ -1,7 +1,7 @@
 baseURL = 'https://example.net/'
 languageCode = 'en-us'
 title = 'Dom'
-theme = 'hugo-theme-hello-friend-ng'
+theme = 'hugo-theme-hello-friend-ng-master'
 paginate = 10
 
 [author]
