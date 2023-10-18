@@ -23,8 +23,8 @@ paginate = 10
     url  = "https://instagram.com/m0th05"
 
 [[params.social]]
-    name = "email"
-    url  = "dominiksarnowicz@proton.me"
+    name = "twitter"
+    url  = "https://twitter.com/m0th05"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
